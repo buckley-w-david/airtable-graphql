@@ -13,6 +13,7 @@ homepage = "https://github.com/buckley-w-david/airtable-graphql"
 python = "^3.6"
 click = "^6.7"
 airtable-schema = "^0.1.1"
+graphene = "^2.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^3.0"
